@@ -8,6 +8,7 @@ Neo4j Movies Example Application - Asp.net WebApi Version
 * Asp.net WebApi
 
 ## 🚀 Run Locally
+![Neo4j Movies Demo](resources/movies.gif)
 * There's a [docker-compose](resources/docker-compose.yml) file and you can use the following command to launch Neo4j container. 
 ```
 $ docker-compose up -d
