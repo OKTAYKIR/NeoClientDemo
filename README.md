@@ -31,4 +31,4 @@ WARNING: You will need the *Microsoft .NET Framework 4.7.2 Developer Pack* and *
 Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
-MIT License
+[MIT license](http://www.opensource.org/licenses/Mit)
