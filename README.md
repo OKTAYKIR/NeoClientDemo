@@ -1,7 +1,7 @@
 # NeoClient Demo - Neo4j Movies Example Application
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/OKTAYKIR/NeoClientDemo)
 ![GitHub issues](https://img.shields.io/github/issues/OKTAYKIR/NeoClientDemo)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
 Neo4j Movies Example Application - Asp.net WebApi Version
 
@@ -28,6 +28,9 @@ WARNING: You will need the *Microsoft .NET Framework 4.7.2 Developer Pack* and *
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## ✨ Contributors
+![GitHub Contributors Image](https://contrib.rocks/image?repo=OKTAYKIR/NeoClientDemo)
 
 ## Show your support
 Please ⭐️ this repository if this project helped you!
