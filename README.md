@@ -1,5 +1,7 @@
 # NeoClient Demo - Neo4j Movies Example Application
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/OKTAYKIR/NeoClientDemo)
+![GitHub issues](https://img.shields.io/github/issues/OKTAYKIR/NeoClientDemo)
 
 Neo4j Movies Example Application - Asp.net WebApi Version
 
